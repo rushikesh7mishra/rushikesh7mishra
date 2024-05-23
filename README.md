@@ -1,4 +1,4 @@
-![logo](https://github.com/rushikesh7mishra/rushikesh7mishra/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+![logo](https://github.com/rushikesh7mishra/rushikesh7mishra/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rushikesh Mishra</h1>
 <h3 align="center">A Passionate Software Engineer from India</h3>
 
