@@ -1,14 +1,10 @@
 ![logo](https://github.com/rushikesh7mishra/rushikesh7mishra/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rushikesh Mishra</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<h3 align="center">CSE | Full Stack Developer | Python | Django | React Js | Node Js | Mysql</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh7mishra&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh7mishra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushikesh7mishra" alt="rushikesh7mishra" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/rushikeshmishr8" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/rushikeshmishr8?logo=twitter&style=for-the-badge" alt="https://x.com/rushikeshmishr8" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack, Typescript**
 
@@ -20,6 +16,8 @@
 <p align="left">
 <a href="https://twitter.com/https://x.com/rushikeshmishr8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/rushikeshmishr8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushikesh-mishra/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/rushikesh.mishra.35/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rushikesh.mishra.35/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mishra.rushikesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mishra.rushikesh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
